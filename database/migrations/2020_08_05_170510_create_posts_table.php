@@ -19,7 +19,7 @@ class CreatePostsTable extends Migration
             $table->text('contenido');
             $table->unsignedBigInteger('user_id');
             $table->timestamps();
-             $table->foreign('user_id')->references('id')->on('users');
+            
         });
     }
 
