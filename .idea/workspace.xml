@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="83aef9c4-35f5-4545-a02e-3e1921da5e15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/CompanySeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/CompanySeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/database" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/layouts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -151,6 +151,7 @@
       <recent name="$PROJECT_DIR$/database" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/layouts" />
       <recent name="$PROJECT_DIR$/database" />
     </key>
   </component>
@@ -186,11 +187,17 @@
       <workItem from="1596658871259" duration="1728000" />
       <workItem from="1596661976450" duration="9193000" />
       <workItem from="1596672640623" duration="2079000" />
-      <workItem from="1596675011073" duration="13800000" />
+      <workItem from="1596675011073" duration="18944000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="322" width="357" height="146" key="NewPhpFileDialog" timestamp="1596745997618">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="500" y="322" width="357" height="146" key="NewPhpFileDialog/0.25.1366.743@0.25.1366.743" timestamp="1596745997618" />
   </component>
 </project>
