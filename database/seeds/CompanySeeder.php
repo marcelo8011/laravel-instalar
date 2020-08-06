@@ -12,8 +12,8 @@ class CompanySeeder extends Seeder
      */
     public function run()
     {
-        $record = array(
-            array('name'=>'BMVV', 'telefono'=>'987654321', 'email'=>'info@bmvv.com', 'address'=>'Riobamba')
+        $records = array(
+            array('nombre'=>'BMVV', 'telefono'=>'987654321', 'email'=>'info@bmvv.com', 'direccion'=>'Riobamba'),
         );
         DB::table('companies')->insert($records);//
     }
